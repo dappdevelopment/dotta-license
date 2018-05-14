@@ -32,9 +32,9 @@ contract LicenseOwnership is LicenseInventory, ERC721, ERC165, ERC721Metadata, E
 
   /*** Constants ***/
   // Configure these for your own deployment
-  string public constant NAME = "Dottabot";
-  string public constant SYMBOL = "DOTTA";
-  string public tokenMetadataBaseURI = "https://api.dottabot.com/";
+  string public constant NAME = "SmartLicense";
+  string public constant SYMBOL = "SL";
+  string public tokenMetadataBaseURI = "https://smartlicense.oc.tc/";
 
   /**
    * @notice token's name

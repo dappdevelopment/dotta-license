@@ -58,7 +58,7 @@
     "dotenv": "^5.0.0",
     "es6-promisify": "^5.0.0",
     "ethereumjs-abi": "^0.6.4",
-    "ethereumjs-util": "^5.1.1",
+    "ethereumjs-util": "^5.2.0",
     "isomorphic-fetch": "^2.2.1",
     "lodash": "^4.17.4",
     "request": "^2.81.0",
